@@ -7,7 +7,11 @@
 
 plugins {
     id 'java-library'
+    id 'maven-publish'
 }
+
+group = 'com.gustavsvensk.ordfyran'
+version = '0.0.1'
 
 repositories {
     mavenCentral()
@@ -29,4 +33,47 @@ java {
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            groupId = project.group
+            artifactId = 'dictionary'
+            version = project.version
+
+            pom {
+                name = 'Ordfyran Dictionary'
+                description = 'Contains Swedish Dictionary.'
+                licenses {
+                    license {
+                        name = 'Creative Commons Attribution-ShareAlike, version 2.5'
+                        url = 'https://creativecommons.org/licenses/by-sa/2.5/legalcode.en'
+                    }
+                }
+                developers {
+                    developer {
+                        id = 'GSvensk'
+                        name = 'Gustav Svensk'
+                        email = 'me@gustavsvensk.com'
+                    }
+                }
+                scm {
+                    connection = 'https://github.com/GSvensk/ordfyran-dictionary.git'
+                    url = 'https://github.com/GSvensk/ordfyran-dictionary'
+                }
+            }
+        }
+    }
+
+    repositories {
+        mavenLocal()
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8' // Set the encoding if needed
 }
