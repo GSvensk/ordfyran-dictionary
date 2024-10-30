@@ -1,9 +1,7 @@
 package com.gustavsvensk.ordfyran.parsers;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -20,21 +18,20 @@ public class ParseOrdlistan {
     }
   }
 
-  public static void main(String[] args) {
-    try (BufferedReader reader = new BufferedReader(new FileReader("./ordlistan/swedish.dic"));
-         BufferedWriter writer = new BufferedWriter(new FileWriter("./sv_SE.txt"))) {
+  public static Set<String> parseWords(String dicFilePath) {
+    Set<String> words = new HashSet<>();
+    try (BufferedReader reader = new BufferedReader(new FileReader(dicFilePath))) {
 
       String line;
       while ((line = reader.readLine()) != null) {
-        String[] words = line.split("/");
-        String word = words[0].trim();
+        String[] wordsArray = line.split("/");
+        String word = wordsArray[0].trim();
 
         try {
-          String description = words.length > 1 ? words[1].trim() : "";
+          String description = wordsArray.length > 1 ? wordsArray[1].trim() : "";
 
           boolean discard = false;
           if ("A".equals(description)) {
-            //System.out.println("discarded " + word + " because " + description + " is a name");
             discard = true;
           }
 
@@ -57,7 +54,6 @@ public class ParseOrdlistan {
           }
 
           if (word.length() > 5) {
-            //System.out.println("discarded " + word + " because too long");
             discard = true;
           }
 
@@ -68,16 +64,17 @@ public class ParseOrdlistan {
           }
 
           if (!discard) {
-            writer.write(word + "\n");
+            words.add(word);
           }
 
         } catch (Exception e) {
           System.out.println("failed " + line);
-          System.out.println("failed " + words.length);
+          System.out.println("failed " + wordsArray.length);
         }
       }
     } catch (IOException e) {
       e.printStackTrace();
     }
+    return words;
   }
 }

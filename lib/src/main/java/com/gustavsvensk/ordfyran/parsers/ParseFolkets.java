@@ -1,14 +1,12 @@
 package com.gustavsvensk.ordfyran.parsers;
 
 import org.w3c.dom.*;
+
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.TreeSet;
 import java.util.stream.Collectors;
 
 public class ParseFolkets {
@@ -21,18 +19,18 @@ public class ParseFolkets {
     }
   }
 
-  public static void main(String[] args) {
+  public static Set<String> parseWords(String xmlFilePath) {
+    Set<String> words = new HashSet<>();
     try {
       // Load the XML file
       DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
       DocumentBuilder builder = factory.newDocumentBuilder();
-      Document document = builder.parse("./folkets/folkets_sv_en_public.xml");
+      Document document = builder.parse(xmlFilePath);
 
       // Normalize the XML structure
       document.getDocumentElement().normalize();
 
       NodeList wordNodes = document.getElementsByTagName("word");
-      Set<String> words = new HashSet<>();
 
       for (int i = 0; i < wordNodes.getLength(); i++) {
         Element wordElement = (Element) wordNodes.item(i);
@@ -68,22 +66,9 @@ public class ParseFolkets {
         }
       }
 
-      // Sort the words alphabetically
-      TreeSet<String> sortedWords = new TreeSet<>(words);
-
-      // Save to plain text file
-      String txtFile = "./folkets.txt"; // Output file name
-      try (BufferedWriter writer = new BufferedWriter(new FileWriter(txtFile))) {
-        for (String word : sortedWords) {
-          writer.write(word);
-          writer.newLine();
-        }
-      }
-
-      System.out.println("Words have been saved to " + txtFile);
-
     } catch (Exception e) {
       e.printStackTrace();
     }
+    return words;
   }
 }
