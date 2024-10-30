@@ -2293,7 +2293,6 @@ hanja
 hanka
 hann
 hanne
-hans
 happ
 har
 hare
