@@ -10,3 +10,13 @@ This project provides a Swedish dictionary. It merges and modifies existing Swed
 ### Prerequisites
 
 - Java 21 or higher
+
+### Installation
+
+```bash
+./gradlew clean build
+```
+
+```bash
+./gradlew publishToMavenLocal
+```
