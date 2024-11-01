@@ -20,3 +20,17 @@ This project provides a Swedish dictionary. It merges and modifies existing Swed
 ```bash
 ./gradlew publishToMavenLocal
 ```
+
+
+## Analysis
+
+Letter frequency
+```bash
+cat assets/words/dictionary.txt | tr '[:upper:]' '[:lower:]' | tr -d '[:punct:]' | fold -w1 | sort | uniq -c | sort -rn | awk '{print $2, $1}'
+```
+
+
+Prefix frequency
+```bash
+cat assets/words/dictionary.txt | tr '[:upper:]' '[:lower:]' | tr -d '[:punct:]' | cut -c1-2 | sort | uniq -c | sort -rn | awk '{print $2, $1}'
+```
