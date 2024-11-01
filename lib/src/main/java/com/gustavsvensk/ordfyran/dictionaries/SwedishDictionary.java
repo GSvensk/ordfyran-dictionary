@@ -42,4 +42,9 @@ public class SwedishDictionary implements Dictionary {
   public Language getLanguage() {
     return Language.SWEDISH;
   }
+
+  @Override
+  public Set<String> getWords() {
+    return WORDS;
+  }
 }

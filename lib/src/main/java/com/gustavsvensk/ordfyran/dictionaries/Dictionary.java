@@ -1,5 +1,7 @@
 package com.gustavsvensk.ordfyran.dictionaries;
 
+import java.util.Set;
+
 public interface Dictionary {
 
     enum Language {
@@ -10,4 +12,6 @@ public interface Dictionary {
     boolean contains(String word);
 
     Language getLanguage();
+
+    Set<String> getWords();
 }
