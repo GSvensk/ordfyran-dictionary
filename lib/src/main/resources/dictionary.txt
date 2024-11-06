@@ -5256,7 +5256,6 @@ revir
 revs
 revy
 revär
-riad
 ribb
 ribba
 ricin
