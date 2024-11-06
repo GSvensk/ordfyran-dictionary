@@ -48,7 +48,6 @@ ajour
 ajvar
 ajö
 ajöss
-aklej
 akne
 akryl
 akt
@@ -94,7 +93,6 @@ alpin
 alrot
 alt
 altan
-altar
 alter
 alumn
 alv
@@ -152,7 +150,6 @@ ansåg
 anta
 antal
 ante
-anti
 antik
 antog
 anus
@@ -236,6 +233,7 @@ atoll
 atom
 atoni
 att
+attan
 atypi
 au
 aula
@@ -283,6 +281,7 @@ avund
 avvek
 aväta
 aväts
+avåt
 ax
 axel
 axial
@@ -305,7 +304,6 @@ bad
 bada
 badda
 bag
-bagar
 bagel
 bagge
 bagis
@@ -322,9 +320,9 @@ bakom
 bakpå
 bakre
 bakut
+bakåt
 bal
 bala
-balj
 balja
 balk
 ball
@@ -333,7 +331,6 @@ balle
 balt
 bambu
 bamse
-ban
 bana
 banal
 banan
@@ -380,7 +377,6 @@ basun
 basår
 batik
 baud
-bauta
 baxa
 baxna
 be
@@ -431,7 +427,6 @@ beså
 besök
 bet
 beta
-betal
 bete
 betog
 betro
@@ -486,7 +481,6 @@ biyta
 bjuda
 bjäbb
 bjäfs
-bjälk
 bjärt
 bjöd
 björk
@@ -546,13 +540,13 @@ blås
 blåsa
 blåst
 blöda
-blöj
 blöja
 blöt
 blöta
 bo
 boa
 board
+bob
 bobb
 bobin
 bock
@@ -584,7 +578,6 @@ bomba
 bomma
 bona
 bonad
-bond
 bonde
 bong
 bonus
@@ -609,6 +602,7 @@ borta
 boss
 bot
 bota
+botox
 bott
 boule
 bov
@@ -628,7 +622,6 @@ braka
 brand
 brann
 brant
-bras
 brasa
 brass
 brast
@@ -641,7 +634,6 @@ breda
 bredd
 brett
 brev
-brick
 brie
 brigg
 brink
@@ -677,7 +669,6 @@ bryne
 bryr
 brysk
 bryta
-bräd
 bräda
 brädd
 bräde
@@ -691,6 +682,7 @@ bråk
 bråka
 brås
 bråte
+brått
 bröa
 bröd
 bröl
@@ -746,9 +738,7 @@ bybor
 bydel
 byffé
 bygd
-bygde
 bygel
-bygg
 bygga
 bygge
 byig
@@ -765,7 +755,6 @@ byter
 bytt
 bytta
 byväg
-byx
 byxa
 byxis
 byxor
@@ -775,7 +764,6 @@ bäck
 bädd
 bädda
 bädds
-bägar
 bägge
 bälg
 bälga
@@ -787,7 +775,6 @@ bänk
 bänka
 bär
 bära
-bärar
 bärga
 bärig
 bärs
@@ -832,7 +819,6 @@ börd
 börda
 börja
 börs
-böss
 bössa
 böta
 böter
@@ -843,12 +829,12 @@ cacha
 cache
 café
 cajun
+cameo
 camp
 campa
 canto
 cape
 cash
-cd
 ceder
 cell
 celli
@@ -898,7 +884,6 @@ cool
 coupé
 cover
 cox
-cpu
 crack
 crawl
 crazy
@@ -910,9 +895,7 @@ culpa
 cup
 curla
 curry
-cv
 cyan
-cyber
 cykel
 cykla
 cysta
@@ -994,6 +977,7 @@ demon
 den
 denim
 denna
+denne
 deo
 deppa
 depå
@@ -1032,6 +1016,7 @@ ding
 dingo
 diné
 diod
+dip
 dipol
 dipp
 dippa
@@ -1053,7 +1038,6 @@ diva
 divan
 divig
 dixie
-dj
 djinn
 djonk
 djup
@@ -1126,10 +1110,8 @@ drog
 droga
 dront
 dropp
-drosk
 druid
 drul
-druv
 druva
 dryad
 dryck
@@ -1168,9 +1150,9 @@ duka
 dukad
 dukat
 dum
+duman
 dumma
 dummy
-dump
 dumpa
 dumt
 dun
@@ -1192,7 +1174,6 @@ dusör
 dutta
 duva
 dvala
-dvd
 dvs
 dvärg
 dy
@@ -1203,7 +1184,6 @@ dygna
 dyig
 dyk
 dyka
-dykar
 dyker
 dykt
 dylik
@@ -1264,6 +1244,7 @@ dötid
 dött
 döv
 döva
+eagle
 earl
 ebb
 ebba
@@ -1294,7 +1275,6 @@ eklut
 eklöv
 eko
 ekoby
-ekorr
 ekoxe
 eksem
 el
@@ -1304,7 +1284,6 @@ elbil
 elbåt
 eld
 elda
-eldar
 eldig
 elegi
 elev
@@ -1338,6 +1317,7 @@ enbär
 enda
 ende
 endiv
+enfas
 enhet
 enig
 enkel
@@ -1389,6 +1369,7 @@ eten
 eter
 etik
 etisk
+etno
 etos
 etsa
 ett
@@ -1459,6 +1440,7 @@ fasa
 fasad
 fasan
 fasar
+fasat
 fasen
 fason
 fast
@@ -1524,7 +1506,6 @@ fikus
 fil
 fila
 filea
-filig
 film
 filma
 filt
@@ -1548,7 +1529,6 @@ finta
 finöl
 fiol
 fira
-firar
 firma
 firre
 fis
@@ -1563,10 +1543,8 @@ fiss
 fitta
 fix
 fixa
-fixar
 fjant
 fjol
-fjoll
 fjong
 fjor
 fjord
@@ -1576,7 +1554,6 @@ fjäll
 fjära
 fjärd
 fjäre
-fjärr
 fjärt
 fjäsk
 fjät
@@ -1589,7 +1566,6 @@ flams
 flane
 flank
 flarn
-flask
 flat
 flata
 flax
@@ -1599,7 +1575,6 @@ flera
 flest
 flex
 flexa
-flick
 flik
 flika
 flin
@@ -1620,7 +1595,6 @@ flott
 flow
 flox
 fluff
-flug
 fluga
 flukt
 flum
@@ -1634,6 +1608,7 @@ flyer
 flyg
 flyga
 flykt
+flyna
 flyt
 flyta
 flytt
@@ -1717,6 +1692,7 @@ frett
 fri
 fria
 friad
+friar
 frias
 frid
 frige
@@ -1744,11 +1720,11 @@ fräs
 fräsa
 fräta
 fråga
-fråge
 från
 frö
 fröa
 fröjd
+fröna
 frös
 fröså
 fucka
@@ -1764,6 +1740,7 @@ fulöl
 fumla
 funk
 funka
+funne
 fur
 fura
 furie
@@ -1773,12 +1750,12 @@ furu
 fusk
 fuska
 futil
+futt
 futta
 fux
 fy
 fylka
 fylke
-fyll
 fylla
 fylld
 fyllo
@@ -1787,6 +1764,7 @@ fynd
 fynda
 fyr
 fyra
+fyrat
 fyrk
 fyrop
 fyrti
@@ -1797,7 +1775,6 @@ fäder
 fäfot
 fägna
 fähus
-fäkt
 fäkta
 fälad
 fälg
@@ -1805,13 +1782,13 @@ fäll
 fälla
 fälld
 fälle
+fällt
 fält
 färd
 färde
 färg
 färga
 färja
-färje
 färla
 färre
 färs
@@ -1852,7 +1829,6 @@ fön
 föna
 för
 föra
-förar
 förbi
 före
 förgå
@@ -1915,12 +1891,11 @@ gassa
 gast
 gasta
 gata
-gatan
 gate
 gatt
-gauss
 gav
 gavel
+gay
 ge
 gebit
 gecko
@@ -1939,6 +1914,7 @@ gen
 gena
 genes
 geni
+genie
 genom
 genre
 genta
@@ -1973,7 +1949,6 @@ gissa
 gitta
 giv
 giva
-givar
 given
 giver
 givit
@@ -1983,7 +1958,6 @@ gjort
 gjuse
 gjut
 gjuta
-glacé
 glad
 glada
 gladd
@@ -2011,6 +1985,7 @@ glugg
 glupa
 glutt
 glytt
+gläd
 gläds
 gläfs
 glänt
@@ -2029,7 +2004,6 @@ gneka
 gnet
 gneta
 gnida
-gnist
 gno
 gnola
 gnom
@@ -2063,6 +2037,7 @@ gos
 gosa
 gosig
 gosse
+goten
 goter
 gotik
 gott
@@ -2107,7 +2082,6 @@ grogg
 groll
 grop
 gross
-grott
 grov
 gruff
 grums
@@ -2115,7 +2089,6 @@ grund
 grupp
 grus
 grusa
-gruv
 gruva
 gry
 grym
@@ -2123,7 +2096,6 @@ grymt
 gryn
 gryt
 gryta
-grädd
 gräl
 gräla
 gräll
@@ -2218,7 +2190,6 @@ gås
 gåta
 gått
 gåva
-gåvo
 göda
 gödd
 gök
@@ -2393,7 +2364,6 @@ hitom
 hitre
 hits
 hitta
-hitte
 hitåt
 hiva
 hjon
@@ -2404,9 +2374,6 @@ hjula
 hjuls
 hjälm
 hjälp
-hjärn
-hjärt
-hjäss
 hm
 hmm
 ho
@@ -2418,6 +2385,7 @@ hokus
 holk
 holka
 holme
+homo
 hon
 hona
 honom
@@ -2435,7 +2403,6 @@ horig
 horn
 hos
 hosor
-host
 hosta
 hot
 hota
@@ -2444,6 +2411,7 @@ hotta
 house
 hov
 hovra
+http
 hu
 hubb
 hubot
@@ -2498,12 +2466,12 @@ hygge
 hylla
 hylle
 hylsa
+hymen
 hymla
 hymn
 hynda
 hypa
 hype
-hyper
 hyr
 hyra
 hyrd
@@ -2521,7 +2489,6 @@ häck
 häcka
 häda
 hädan
-hädar
 häfta
 häfte
 häger
@@ -2532,12 +2499,10 @@ hägra
 häkta
 häkte
 häl
-hälar
 hälft
 häll
 hälla
 hälsa
-hälso
 hälta
 hämma
 hämna
@@ -2611,7 +2576,6 @@ högst
 högt
 höj
 höja
-höjar
 höjd
 höjda
 hök
@@ -2649,7 +2613,6 @@ idel
 idiom
 idiot
 idka
-idkar
 idog
 idol
 idyll
@@ -2776,14 +2739,12 @@ isyta
 isyxa
 isälv
 isär
-it
 itts
 itu
 ituta
 ity
 iver
 ivra
-ivrar
 ivrig
 iväg
 ja
@@ -2796,7 +2757,6 @@ jade
 jadå
 jag
 jaga
-jagar
 jaha
 jaja
 jak
@@ -2880,7 +2840,6 @@ juver
 jycke
 jympa
 jädra
-jägar
 jäkel
 jäkla
 jäkt
@@ -2926,8 +2885,6 @@ kajal
 kajbo
 kajka
 kajt
-kajut
-kak
 kaka
 kakao
 kakel
@@ -2976,6 +2933,7 @@ karda
 karen
 karg
 karl
+karln
 karm
 karma
 karp
@@ -3011,11 +2969,9 @@ kazak
 kazoo
 kbit
 kbyte
-kd
 kebab
 kediv
 kedja
-kedje
 keff
 kefir
 kel
@@ -3045,7 +3001,6 @@ kicka
 kid
 kids
 kika
-kikar
 kikna
 kil
 kila
@@ -3090,7 +3045,6 @@ kladd
 klaff
 klafs
 klaga
-klago
 klamp
 klan
 klang
@@ -3127,7 +3081,6 @@ kliv
 kliva
 klo
 kloak
-klock
 klok
 klon
 klona
@@ -3143,7 +3096,6 @@ klunk
 kluns
 klura
 klut
-klyft
 klyka
 klyva
 klyvs
@@ -3241,7 +3193,6 @@ kojar
 kojat
 kok
 koka
-kokar
 koko
 kokos
 koks
@@ -3311,7 +3262,6 @@ kovan
 koöga
 koögd
 kpist
-krabb
 krafs
 kraft
 krage
@@ -3339,7 +3289,6 @@ krill
 kring
 kris
 krisa
-krit
 krita
 kroat
 krock
@@ -3349,7 +3298,6 @@ kroka
 kroki
 krom
 kroma
-kron
 krona
 kropp
 kross
@@ -3366,12 +3314,9 @@ kruta
 krux
 kry
 krya
-krydd
-krymp
 kryp
 krypa
 kryss
-kräft
 kräk
 kräks
 kräla
@@ -3379,7 +3324,6 @@ kräm
 kräma
 kräpp
 kräva
-kråk
 kråka
 kråma
 krås
@@ -3394,6 +3338,7 @@ kuba
 kuban
 kubb
 kubik
+kucku
 kudde
 kuf
 kugg
@@ -3413,7 +3358,6 @@ kulör
 kund
 kunde
 kung
-kunga
 kungl
 kunna
 kupa
@@ -3455,7 +3399,6 @@ kvarg
 kvark
 kvarn
 kvart
-kvasi
 kvass
 kvast
 kvav
@@ -3479,7 +3422,6 @@ kväve
 kyffe
 kyl
 kyla
-kylar
 kyld
 kyler
 kyles
@@ -3487,10 +3429,7 @@ kylig
 kyls
 kymig
 kynne
-kypar
-kyrk
 kyrka
-kyrko
 kysk
 kyss
 kyssa
@@ -3501,9 +3440,7 @@ kägla
 käk
 käka
 käke
-kälk
 kälke
-käll
 källa
 kämpa
 kämpe
@@ -3519,7 +3456,6 @@ kära
 kärar
 käril
 kärl
-kärn
 kärna
 kärr
 kärra
@@ -3557,8 +3493,6 @@ kön
 könad
 köp
 köpa
-köpar
-köpe
 kör
 köra
 körde
@@ -3604,7 +3538,6 @@ lalla
 lam
 lama
 lamm
-lamp
 lampa
 lamé
 land
@@ -3639,13 +3572,11 @@ lave
 lavin
 lavyr
 lax
-laxer
 le
 leasa
 led
 leda
 ledad
-ledar
 ledd
 ledig
 leg
@@ -3695,6 +3626,7 @@ lifta
 liga
 ligg
 ligga
+light
 lik
 lika
 like
@@ -3705,6 +3637,7 @@ lilja
 lilla
 lille
 lim
+limbo
 lime
 limit
 limma
@@ -3724,7 +3657,6 @@ lipig
 lipom
 lir
 lira
-lirar
 lirka
 lisa
 lisma
@@ -3821,10 +3753,10 @@ lugnt
 lukt
 lukta
 lulla
+lumen
 lump
 lunch
 lund
-lung
 lunga
 lunk
 lunka
@@ -3855,7 +3787,7 @@ lux
 ly
 lya
 lycka
-lycko
+lycra
 lyd
 lyda
 lydde
@@ -3888,7 +3820,6 @@ lägra
 lägre
 lägst
 läka
-läkar
 läkt
 läm
 lämna
@@ -3906,15 +3837,12 @@ länsa
 läpp
 lär
 lära
-lärar
 lärd
 lärft
 lärk
 lärka
-läro
 lärs
 läsa
-läsar
 läsk
 läska
 läspa
@@ -3927,13 +3855,13 @@ lätt
 lätta
 läxa
 läxar
+läxat
 låda
 lådor
 låg
 låga
 lån
 låna
-låne
 lång
 långa
 långt
@@ -3963,7 +3891,6 @@ lönn
 lönt
 löp
 löpa
-löpar
 lös
 lösa
 lösan
@@ -3979,6 +3906,7 @@ löv
 löva
 lövad
 mach
+macho
 mack
 macka
 mad
@@ -4047,7 +3975,6 @@ masta
 mat
 mata
 matad
-matar
 match
 matig
 matkö
@@ -4061,7 +3988,6 @@ maxa
 maxad
 maxi
 maxim
-mc
 mdkr
 mecka
 med
@@ -4069,10 +3995,8 @@ medan
 medel
 medge
 media
-medie
 medla
 medta
-mega
 mej
 meja
 mejka
@@ -4104,10 +4028,10 @@ meter
 metod
 metro
 metyl
+meze
 mg
 mick
 midja
-midje
 miffo
 mig
 mikra
@@ -4124,7 +4048,6 @@ mima
 mimik
 min
 mina
-mini
 mink
 minne
 minns
@@ -4137,6 +4060,7 @@ minut
 miso
 miss
 missa
+misse
 mista
 miste
 misär
@@ -4158,6 +4082,7 @@ mjöl
 mjöla
 mjölk
 ml
+mm
 mmol
 mnkr
 mo
@@ -4253,11 +4178,9 @@ mupp
 mur
 mura
 mural
-murar
 mus
 musa
 musch
-musei
 musik
 musse
 must
@@ -4307,7 +4230,6 @@ mäss
 mässa
 mät
 mäta
-mätar
 mätt
 mätta
 må
@@ -4317,7 +4239,6 @@ måfå
 måg
 mål
 måla
-målar
 målis
 målla
 måls
@@ -4393,7 +4314,6 @@ natta
 natur
 nav
 navel
-nazi
 ned
 nedan
 neder
@@ -4418,7 +4338,6 @@ nerv
 neråt
 nesa
 netto
-neuro
 nevö
 ni
 nia
@@ -4460,7 +4379,6 @@ nomad
 noob
 noppa
 nord
-norge
 norm
 norpa
 norr
@@ -4485,7 +4403,6 @@ nudel
 numro
 nuna
 nunna
-nunne
 nupit
 nutid
 ny
@@ -4519,7 +4436,6 @@ nyss
 nysta
 nyter
 nytta
-nytto
 nyval
 nyår
 nä
@@ -4587,7 +4503,6 @@ nöta
 nötig
 oanad
 oas
-ob
 obedd
 oblat
 oblid
@@ -4608,7 +4523,6 @@ odiös
 odjur
 odla
 odlad
-odlar
 odon
 odryg
 odygd
@@ -4673,7 +4587,6 @@ oliv
 olja
 oljar
 oljas
-olje
 oljig
 oljud
 olle
@@ -4720,6 +4633,7 @@ opal
 opepp
 opera
 opiat
+opiet
 opium
 opp
 oppe
@@ -4854,7 +4768,6 @@ pang
 panga
 panik
 pank
-pann
 panna
 pannå
 pant
@@ -4887,7 +4800,6 @@ paus
 pausa
 pava
 paxa
-pc
 peang
 pedal
 peddo
@@ -4895,12 +4807,9 @@ peela
 pejl
 pejla
 peka
-pekar
 pence
 peng
-penga
 penis
-penn
 penna
 penny
 pensé
@@ -4921,7 +4830,6 @@ piaff
 piano
 pick
 picka
-piezo
 piff
 piffa
 piga
@@ -4976,7 +4884,6 @@ pjuck
 pjäs
 pjäxa
 pjåsk
-pk
 plack
 plage
 plagg
@@ -5075,7 +4982,6 @@ potta
 poäng
 ppm
 prakt
-prao
 praoa
 prat
 prata
@@ -5090,7 +4996,6 @@ prion
 prior
 pris
 prisa
-pro
 progg
 propp
 propå
@@ -5117,7 +5022,6 @@ prång
 pröjs
 pröva
 psalm
-psyk
 psyka
 psyke
 ptro
@@ -5168,6 +5072,7 @@ puts
 putsa
 putt
 putta
+putte
 pygmé
 pylon
 pynt
@@ -5182,7 +5087,6 @@ pytsa
 pytt
 päls
 pälsa
-pärl
 pärla
 pärm
 päron
@@ -5202,11 +5106,11 @@ pårop
 påse
 påsig
 påsk
-påskö
 påste
 påstå
 påsyn
 påta
+påtog
 påtår
 påve
 påver
@@ -5220,9 +5124,8 @@ pörte
 pösa
 pösig
 queer
-quist
 quiz
-qvist
+quorn
 rabbi
 race
 racer
@@ -5234,7 +5137,6 @@ radar
 radda
 rader
 radie
-radig
 radio
 radon
 radså
@@ -5298,7 +5200,6 @@ rebus
 red
 reda
 redan
-redar
 redd
 rede
 redig
@@ -5320,7 +5221,6 @@ rejäl
 reka
 reko
 rekyl
-relax
 relik
 relä
 reläa
@@ -5370,7 +5270,6 @@ rigid
 rigla
 rik
 rike
-rikt
 rikta
 rim
 rimma
@@ -5419,7 +5318,6 @@ rolla
 rolös
 rom
 roman
-romar
 romb
 romsk
 rond
@@ -5498,7 +5396,6 @@ rutin
 rutit
 rutt
 ruva
-ruvar
 rya
 rybs
 ryck
@@ -5514,7 +5411,6 @@ rymd
 rymma
 rynka
 rysa
-rysar
 rysch
 rysk
 ryska
@@ -5529,17 +5425,15 @@ rädas
 rädd
 rädda
 räder
-rädis
 räfsa
 räfst
-räk
 räka
 räkna
-räkne
 räkor
 rälig
 räls
 rämna
+rände
 ränn
 ränna
 ränt
@@ -5575,10 +5469,8 @@ råm
 råma
 rån
 råna
-rånar
 råris
 råsop
-rått
 råtta
 röd
 rödas
@@ -5600,6 +5492,7 @@ rörda
 rörde
 röres
 rörig
+rört
 rös
 röse
 röst
@@ -5611,7 +5504,6 @@ röta
 rött
 röv
 röva
-rövar
 sa
 sabb
 sabba
@@ -5627,7 +5519,6 @@ safta
 saga
 sagga
 sagla
-sago
 sagt
 sajt
 sak
@@ -5765,8 +5656,6 @@ sia
 sid
 sida
 siden
-sidig
-sido
 sifon
 sig
 signa
@@ -5831,7 +5720,6 @@ sjöss
 ska
 skabb
 skada
-skade
 skaft
 skaka
 skal
@@ -5871,7 +5759,6 @@ skev
 skeva
 skevt
 skick
-skid
 skida
 skift
 skikt
@@ -5879,7 +5766,6 @@ skild
 skils
 skilt
 skina
-skink
 skinn
 skipa
 skir
@@ -5887,7 +5773,6 @@ skira
 skiss
 skit
 skita
-skiv
 skiva
 skjul
 skjut
@@ -5897,13 +5782,11 @@ skodd
 skog
 skoj
 skoja
-skol
 skola
 skolk
 skona
 skopa
 skor
-skorp
 skorv
 skott
 skov
@@ -5928,7 +5811,6 @@ skrå
 skrål
 skröt
 skuff
-skugg
 skuld
 skull
 skult
@@ -5976,6 +5858,7 @@ skåra
 sköka
 sköld
 skön
+sköna
 skör
 sköra
 skörd
@@ -6035,7 +5918,6 @@ slug
 sluka
 slum
 slump
-slung
 slup
 slurk
 slusk
@@ -6045,7 +5927,6 @@ sluta
 sly
 slyna
 släde
-slägg
 släkt
 släng
 slänt
@@ -6060,12 +5941,12 @@ slån
 slåss
 slö
 slöa
-slöj
 slöja
 slöjd
 slök
 slösa
 slöt
+sm
 smack
 smak
 smaka
@@ -6080,6 +5961,7 @@ smek
 smeka
 smet
 smeta
+smid
 smida
 smidd
 smide
@@ -6152,7 +6034,6 @@ snuva
 snyft
 snygg
 snyta
-snäck
 snäll
 snäpp
 snärt
@@ -6182,7 +6063,6 @@ soc
 sock
 socka
 soda
-soff
 soffa
 soft
 softa
@@ -6221,7 +6101,6 @@ sorti
 sosse
 sot
 sota
-sotar
 sotig
 sotis
 soul
@@ -6233,6 +6112,7 @@ sovra
 spa
 spad
 spade
+spaet
 spak
 spaka
 spakt
@@ -6307,9 +6187,9 @@ spåra
 spått
 spö
 spöa
-spök
 spöka
 spöke
+spöna
 spörs
 stab
 stack
@@ -6366,7 +6246,6 @@ stoft
 stoj
 stoja
 stol
-stolp
 stolt
 stomi
 stomp
@@ -6383,26 +6262,22 @@ strid
 stril
 strof
 strul
-strup
 strut
 stryk
 stryp
 sträv
 strå
 stråk
-strål
 stråt
 strö
 strög
 strök
 ström
 ströp
-ströv
 stubb
 stuck
 studs
 stuff
-stug
 stuga
 stuk
 stuka
@@ -6411,7 +6286,6 @@ stump
 stumt
 stund
 stuns
-stunt
 stup
 stupa
 stuss
@@ -6434,6 +6308,7 @@ städ
 städa
 ställ
 stäm
+stämt
 stänk
 stäpp
 stäv
@@ -6596,7 +6471,6 @@ syrum
 säck
 säcka
 säd
-sädes
 säg
 säga
 sägen
@@ -6622,6 +6496,7 @@ sänk
 sänka
 sänke
 sänkt
+säpo
 sära
 särbo
 särk
@@ -6668,7 +6543,6 @@ södra
 sög
 sök
 söka
-sökar
 sökt
 söla
 sölig
@@ -6692,7 +6566,6 @@ tablå
 tabu
 tack
 tacka
-taco
 tacos
 tadel
 tadla
@@ -6720,7 +6593,6 @@ takås
 tal
 tala
 talan
-talar
 talg
 talja
 talk
@@ -6757,10 +6629,10 @@ task
 tass
 tassa
 tatar
-tavel
 tavla
 tax
 taxa
+taxat
 taxi
 te
 teak
@@ -6815,6 +6687,7 @@ tiga
 tiger
 tigga
 tight
+tigit
 tik
 tilde
 tilja
@@ -6822,7 +6695,6 @@ till
 tills
 tilt
 tilta
-tim
 timer
 timid
 timma
@@ -6920,6 +6792,7 @@ topp
 toppa
 tops
 topsa
+torde
 torg
 tork
 torka
@@ -6991,7 +6864,6 @@ tross
 trots
 truck
 truga
-trum
 trumf
 trunk
 trupp
@@ -7021,15 +6893,14 @@ trätt
 trå
 tråd
 tråg
+tråk
 tråka
 trål
 tråla
 tråna
 trång
 trög
-tröj
 tröja
-trösk
 tröst
 trött
 tsar
@@ -7077,6 +6948,7 @@ tussa
 tut
 tuta
 tutar
+tutat
 tutsi
 tutt
 tutta
@@ -7087,7 +6959,6 @@ tuvad
 tuvar
 tuvat
 tuvig
-tv
 tvang
 tveka
 tvi
@@ -7143,6 +7014,7 @@ tänja
 tänk
 tänka
 tänkt
+tänt
 täpp
 täppa
 täppt
@@ -7170,7 +7042,6 @@ tårad
 tåras
 tårig
 tårna
-tårt
 tårta
 tåsko
 tåt
@@ -7202,7 +7073,6 @@ udde
 uddig
 ufo
 uggla
-uggle
 ugn
 uigur
 ulka
@@ -7222,6 +7092,7 @@ undgå
 undra
 undre
 ung
+unga
 unge
 ungmö
 unik
@@ -7290,6 +7161,7 @@ utmed
 utom
 utopi
 utrop
+utrum
 utse
 utspy
 utstå
@@ -7365,6 +7237,7 @@ var
 vara
 varan
 varar
+varat
 varav
 varda
 vare
@@ -7382,7 +7255,6 @@ varpå
 vars
 varse
 vart
-varu
 varur
 varv
 varva
@@ -7393,11 +7265,9 @@ vaska
 vass
 vax
 vaxa
-vd
 ve
 veck
 vecka
-vecko
 ved
 vegan
 vek
@@ -7456,6 +7326,7 @@ vigör
 vik
 vika
 viker
+vikit
 vikna
 vikt
 vikta
@@ -7468,7 +7339,6 @@ vilka
 vill
 villa
 ville
-vilo
 vilse
 vilt
 vimla
@@ -7477,7 +7347,6 @@ vin
 vina
 vind
 vinda
-ving
 vinge
 vink
 vinka
@@ -7503,6 +7372,7 @@ virus
 vis
 visa
 visad
+visar
 visas
 visir
 visit
@@ -7589,7 +7459,6 @@ vända
 vänja
 vänjs
 vänta
-vänte
 väpna
 värd
 värde
@@ -7611,7 +7480,6 @@ värva
 väsa
 väsen
 väser
-väsk
 väska
 vässa
 väst
@@ -7672,7 +7540,6 @@ wraps
 www
 xenon
 xylos
-xzwqz
 yacht
 yard
 yawl
@@ -7715,10 +7582,10 @@ yxegg
 yxman
 yxmän
 yxne
-yzwzq
 zappa
 zebra
 zelot
+zen
 zenit
 zest
 zink
@@ -7761,17 +7628,15 @@ zygot
 ämne
 än
 ända
+ändat
 ände
 ändra
 ändå
 äng
 ängel
-ängla
 änka
-änke
 ännu
 äntra
-äppel
 äpple
 ära
 ärad
@@ -7796,13 +7661,13 @@ zygot
 ässja
 ät
 äta
-ätare
 ätbar
 äter
+ätit
 ätlig
 ätt
-ättik
 även
+ävlan
 ävlas
 äxing
 å
@@ -7842,9 +7707,9 @@ zygot
 åldra
 åma
 ånej
-ång
 ånga
 ångar
+ångat
 ånger
 ångra
 ånyo
@@ -7852,7 +7717,6 @@ zygot
 år
 åra
 årig
-åring
 årlig
 årpar
 års
@@ -7867,7 +7731,6 @@ zygot
 åskby
 åskig
 åsna
-åsne
 åstad
 åsyn
 åsyna
@@ -7898,11 +7761,9 @@ zygot
 ödeby
 ödem
 ödla
-ödle
 ödsla
 öga
 ögla
-ögle
 ögna
 ögon
 öh
@@ -7929,7 +7790,6 @@ zygot
 ömsom
 ömt
 önska
-önske
 öppen
 öppet
 öppna

@@ -31,23 +31,19 @@ public class ParseOrdlistan {
           String description = wordsArray.length > 1 ? wordsArray[1].trim() : "";
 
           boolean discard = false;
-          if ("A".equals(description)) {
+          if (description.contains("Z")) {
+            System.out.println("discarded " + word + " because its a non-word, part of a compound word");
             discard = true;
           }
 
-          if ("X".equals(description)) {
-            System.out.println("discarded " + word + " because " + description + " is city or company");
-            discard = true;
-          }
-
-          if ("r".equals(description)) {
+          if (description.contains("r")) {
             System.out.println("discarded " + word + " because " + description + " is an abbreviation");
             discard = true;
           }
 
           for (char letter : word.toCharArray()) {
             if (!LETTERS.contains(letter)) {
-              System.out.println("discarded " + word + " because " + letter + " is not a lowercase letter");
+              //System.out.println("discarded " + word + " because " + letter + " is not a lowercase letter");
               discard = true;
               break;
             }
