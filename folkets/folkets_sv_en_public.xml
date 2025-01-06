@@ -141213,10 +141213,6 @@
 <definition value="millimeter"><translation value="millimetre" />
 </definition>
 </word>
-<word class="abbrev" comment="i sifferuttryck" lang="sv" value="mnkr"><translation comment="used with figures" value="million kronor" />
-<phonetic soundFile="mnkr.swf" value="miljO:ner 2krO:nor" />
-<definition value="miljoner kronor" />
-</word>
 <word class="nn" comment="starkt nedsättande" lang="sv" value="mobb"><translation comment="highly pejorative" value="mob" />
 <phonetic soundFile="mobb.swf" value="måb:" />
 <paradigm><inflection value="mobben" />
