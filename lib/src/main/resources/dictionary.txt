@@ -1304,7 +1304,6 @@ emfas
 emir
 emo
 emoji
-emos
 emot
 empir
 emu
