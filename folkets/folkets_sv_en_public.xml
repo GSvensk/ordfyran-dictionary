@@ -232652,15 +232652,6 @@
 </example>
 <definition value="usel, lumpen" />
 </word>
-<word class="nn" comment="kan uppfattas som stötande" lang="sv" value="task"><translation comment="may be taken offensively" value="prick" />
-<phonetic soundFile="task.swf" value="tas:k" />
-<paradigm><inflection value="tasken" />
-<inflection value="taskar" />
-</paradigm>
-<see type="saldo" value="task||task..1||task..nn.1" />
-<see type="saldo" value="task||task..2||task..nn.1" />
-<definition value="penis el. pung" />
-</word>
 <word value="taskig" lang="sv" class="jj" comment="vardagligt"><translation value="rotten" />
 <translation value="nasty" />
 <phonetic value="²tAs:kig" soundFile="taskig.swf" />
