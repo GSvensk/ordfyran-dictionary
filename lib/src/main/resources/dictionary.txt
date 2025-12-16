@@ -1,5 +1,4 @@
 abbot
-abbé
 abc
 aber
 abort
@@ -107,7 +106,6 @@ amper
 amöba
 an
 ana
-anal
 anbud
 and
 anda
@@ -152,7 +150,6 @@ antal
 ante
 antik
 antog
-anus
 aorta
 apa
 apart
@@ -221,7 +218,6 @@ askul
 asont
 asp
 assur
-asså
 assöt
 aster
 astma
@@ -294,7 +290,6 @@ azer
 aztek
 azur
 babbe
-babe
 baby
 back
 backa
@@ -843,8 +838,6 @@ cells
 cent
 cents
 cerat
-cert
-cess
 chai
 chans
 char
@@ -854,7 +847,6 @@ chatt
 check
 chef
 chefa
-chib
 chic
 chick
 chili
@@ -887,7 +879,6 @@ cox
 crack
 crawl
 crazy
-cred
 credo
 cross
 crème
@@ -993,7 +984,6 @@ devot
 di
 dia
 diet
-diff
 diffa
 dig
 diger
@@ -1056,7 +1046,6 @@ docka
 doft
 dofta
 dog
-doge
 dogm
 doja
 dojo
@@ -1244,7 +1233,6 @@ dötid
 döv
 döva
 eagle
-earl
 ebb
 ebba
 ebola
@@ -1259,7 +1247,6 @@ egen
 eget
 egg
 egga
-egid
 egna
 ego
 ehuru
@@ -1401,7 +1388,6 @@ fado
 fadäs
 fager
 faila
-fait
 fajt
 fakir
 fakta
@@ -1996,7 +1982,6 @@ gnag
 gnaga
 gnat
 gnata
-gned
 gnejs
 gneka
 gnet
@@ -2150,7 +2135,6 @@ guru
 guss
 gute
 gutår
-guys
 guzz
 gylf
 gylta
@@ -2218,7 +2202,6 @@ hage
 hagel
 hagga
 hagla
-haha
 haiku
 haj
 haja
@@ -2294,7 +2277,6 @@ hebré
 hed
 heder
 hedra
-hehe
 hej
 heja
 hejd
@@ -2337,7 +2319,6 @@ hette
 hetär
 hg
 hicka
-hihi
 hijab
 himla
 hind
@@ -2351,7 +2332,6 @@ hint
 hinta
 hipp
 hippa
-hird
 hirs
 hisna
 hiss
@@ -2395,7 +2375,6 @@ hoper
 hopp
 hoppa
 hor
-hora
 hord
 horig
 horn
@@ -2447,7 +2426,6 @@ husse
 hut
 huta
 hutt
-hutu
 huv
 huva
 huvor
@@ -2755,7 +2733,6 @@ jadå
 jag
 jaga
 jaha
-jaja
 jak
 jaka
 jakt
@@ -2964,7 +2941,6 @@ kaxe
 kaxig
 kazak
 kazoo
-kbit
 kbyte
 kebab
 kediv
@@ -2996,7 +2972,6 @@ khmer
 kick
 kicka
 kid
-kids
 kika
 kikna
 kil
@@ -3951,7 +3926,6 @@ manke
 manna
 mans
 manus
-manx
 manår
 manér
 maori
@@ -4079,7 +4053,6 @@ mjöla
 mjölk
 ml
 mm
-mmol
 mo
 moaré
 mobb
@@ -4371,7 +4344,6 @@ nojsa
 noll
 nolla
 nomad
-noob
 noppa
 nord
 norm
@@ -4422,7 +4394,6 @@ nyp
 nypa
 nyper
 nypon
-nypt
 nyrik
 nys
 nysa
@@ -4866,10 +4837,8 @@ pirr
 pirra
 pisk
 piska
-piss
 pissa
 pist
-pitt
 pix
 pixel
 pizza
@@ -5006,7 +4975,6 @@ pryd
 pryda
 prydd
 pryl
-pryo
 pränt
 präst
 prål
@@ -5018,7 +4986,6 @@ pröva
 psalm
 psyka
 psyke
-ptro
 pub
 puck
 pucko
@@ -5364,7 +5331,6 @@ runa
 rund
 runda
 runga
-runk
 runka
 runt
 rupie
@@ -5636,7 +5602,6 @@ sfär
 shah
 shake
 shejk
-shia
 shiit
 shims
 shop
@@ -6404,7 +6369,6 @@ sveda
 svedd
 svejs
 svek
-sven
 svep
 svepa
 svets
@@ -6489,7 +6453,6 @@ sänk
 sänka
 sänke
 sänkt
-säpo
 sära
 särbo
 särk
@@ -6530,7 +6493,6 @@ såsig
 såsom
 såväl
 såå
-sååå
 söder
 södra
 sög
@@ -6643,7 +6605,6 @@ tekn
 telex
 tema
 temat
-temp
 tempa
 tempi
 tempo
@@ -6660,7 +6621,6 @@ tesil
 test
 testa
 tetra
-teve
 text
 texta
 tfn
@@ -6801,7 +6761,6 @@ tossa
 tota
 total
 totem
-toto
 tott
 touch
 toupé
@@ -7131,7 +7090,6 @@ uslig
 ut
 utan
 utav
-utbe
 utbud
 utbyt
 utdöd
@@ -7534,7 +7492,6 @@ xenon
 xylos
 yacht
 yard
-yawl
 yen
 yl
 yla
@@ -7573,7 +7530,6 @@ yxa
 yxegg
 yxman
 yxmän
-yxne
 zappa
 zebra
 zelot
@@ -7588,8 +7544,6 @@ zonal
 zoo
 zoom
 zooma
-zorb
-zulu
 zumba
 zygot
 äckel
@@ -7735,7 +7689,6 @@ zygot
 åter
 åtgå
 åtlöd
-åtra
 åtrå
 åtta
 åtti

@@ -13,11 +13,13 @@ public class WordMerger {
     // Read words from both files
     Set<String> svSeWords = ParseOrdlistan.parseWords("./ordlistan/swedish.dic");
     Set<String> folketsWords = ParseFolkets.parseWords("./folkets/folkets_sv_en_public.xml");
+    Set<String> unwantedWords = BlacklistLoader.load();
 
     // Merge words, remove duplicates using a set, and sort alphabetically
     TreeSet<String> mergedWords = new TreeSet<>();
     mergedWords.addAll(svSeWords);
     mergedWords.addAll(folketsWords);
+    mergedWords.removeAll(unwantedWords);
 
     // Save the merged words to a new text file
     saveWordsToFile(mergedWords, outputFile);
